@@ -554,6 +554,39 @@ video {
   --tw-contain-style:  ;
 }
 
+.h-0 {
+  height: 0px;
+}
+
+.w-0 {
+  width: 0px;
+}
+
+.border-b-\[30px\] {
+  border-bottom-width: 30px;
+}
+
+.border-l-\[20px\] {
+  border-left-width: 20px;
+}
+
+.border-r-\[20px\] {
+  border-right-width: 20px;
+}
+
+.border-b-black {
+  --tw-border-opacity: 1;
+  border-bottom-color: rgb(0 0 0 / var(--tw-border-opacity));
+}
+
+.border-l-transparent {
+  border-left-color: transparent;
+}
+
+.border-r-transparent {
+  border-right-color: transparent;
+}
+
 .text-3xl {
   font-size: 1.875rem;
   line-height: 2.25rem;
