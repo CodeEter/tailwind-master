@@ -583,3 +583,8 @@ video {
   -webkit-font-smoothing: auto;
   -moz-osx-font-smoothing: auto;
 }
+
+.hover\:subpixel-antialiased:hover {
+  -webkit-font-smoothing: auto;
+  -moz-osx-font-smoothing: auto;
+}
